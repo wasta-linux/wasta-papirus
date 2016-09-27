@@ -1,0 +1,19 @@
+Source: wasta-papirus
+Section: utils
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+Homepage: https://github.com/wasta-linux/wasta-papirus
+
+Package: wasta-papirus
+Architecture: all
+Depends: papirus-gtk-icon-theme, ${shlibs:Depends}, ${misc:Depends}
+Description: Icon Theme based on Papirus with Vertex folder Icons
+ Papirus theme has symbolic (mono color) icons for folders when at 16 pixels.
+ This is a problem for Nemo as it has a dark sidebar and a light main window,
+ so Papirus-Dark-GTK icons (light colored symbolic icons) don't show in the main
+ window (same color as background), but Papirus-GTK icons (dark colored
+ symbolic icons) don't show in the sidebar (same color as sidebar).
+ .
+ Fix is to use Vertex Folder icons.

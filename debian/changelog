@@ -1,3 +1,13 @@
+wasta-papirus (0.9.0) xenial; urgency=medium
+
+  * index.theme: inherit Papirus-GTK not Papirus-GTK-Dark
+  * devices/16: add from Papirus-GTK-Dark (so "File System", is light in nemo
+      sidebar)
+  * apps/16: add trash icons from Papirus-GTK-Dark (so is light in nemo
+      sidebar)
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Fri, 30 Sep 2016 16:47:58 +0300
+
 wasta-papirus (0.1.0) xenial; urgency=medium
 
   * initial commit

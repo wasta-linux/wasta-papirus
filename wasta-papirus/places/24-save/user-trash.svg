@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="24"
+   width="24"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="user-trash.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview11"
+     showgrid="true"
+     inkscape:zoom="22.627417"
+     inkscape:cx="-1.050311"
+     inkscape:cy="10.858746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4139" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <defs
+     id="defs7386">
+    <filter
+       id="filter7554"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend7556"
+         in2="BackgroundImage"
+         mode="darken" />
+    </filter>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 3.4809275,5.109491 0,16.568621 c 7.29e-5,0.963891 0.6946263,1.840869 1.4580128,1.84096 l 11.6641047,0 1.458012,0 c 0.763391,-9.1e-5 1.457941,-0.877069 1.458015,-1.84096 l 0,-16.568621 z"
+     style="color:#ffffff;text-indent:0;text-transform:none;block-progression:tb;opacity:1;fill:#e6e6e6;stroke:#4d4d4d;stroke-width:0.96185499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:accumulate"
+     id="path8476" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 1.4917818,3.844959 0,1.6631378 20.0001802,-0.00499 0,-1.6631378 c 0,-1.6631376 -1.538167,-1.6687922 -1.538167,-1.6687922 l -4.615427,0 c 0,0 0,-1.66313737 -1.538473,-1.66313737 l -4.6154267,0 c -1.5384769,0 -1.5384769,1.66313737 -1.5384769,1.66313737 l -4.6154265,0 c 0,0 -1.5387831,0.00499 -1.5387831,1.6687922 z"
+     style="color:#ffffff;text-indent:0;text-transform:none;block-progression:tb;opacity:1;fill:#e6e6e6;stroke:#4d4d4d;stroke-width:0.9998194;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:accumulate"
+     id="path8478" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 7.50005,8.5090063 0,11.9909437 0,0 0,0"
+     id="path4140"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     d="m 11.50005,8.5090067 0,11.9909433 0,0 0,0"
+     id="path4140-3"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#4d4d4d;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+     d="m 15.50005,8.5090067 0,11.9909433 0,0 0,0"
+     id="path4140-6"
+     inkscape:connector-curvature="0" />
+</svg>

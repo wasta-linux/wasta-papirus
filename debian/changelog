@@ -1,3 +1,10 @@
+wasta-papirus (0.9.2) xenial; urgency=medium
+
+  * devices: adding scanner, camera, phone dark/light compatibility
+  * various other icon compatibility fixes
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 19 Oct 2016 10:21:57 +0300
+
 wasta-papirus (0.9.1) xenial; urgency=medium
 
   * actions: symlinking to some Papirus-GTK-Dark items for nemo compatibility

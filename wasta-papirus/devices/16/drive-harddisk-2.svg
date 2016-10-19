@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer10"
-     inkscape:cx="9.0556645"
-     inkscape:cy="5.4199421"
+     inkscape:cx="0.87601824"
+     inkscape:cy="8.332842"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -62,7 +62,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="26.237014">
+     inkscape:zoom="37.104741">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -129,10 +129,17 @@
      transform="translate(-265.00042,139.03456)">
     <path
        inkscape:connector-curvature="0"
-       d="m 267.6137,-138.49865 c -1.07734,0 -1.07734,1.0663 -1.07734,1.0663 l 0,12.79555 c 0,0 0,1.0663 1.07734,1.0663 l 10.77343,0 c 0,0 1.07734,0 1.07734,-1.0663 l 0,-12.79555 c 0,0 0,-1.0663 -1.07734,-1.0663 z m 5.38671,2.13259 c 2.38,0 4.30937,1.90958 4.30937,4.26519 0,2.3556 -1.92937,4.26519 -4.30937,4.26519 l -4.30937,0 0,-4.26519 c 0,-2.35561 1.92938,-4.26519 4.30937,-4.26519 z m 0,2.1326 c -1.18999,0 -2.15468,0.95479 -2.15468,2.13259 0,1.1778 0.96469,2.1326 2.15468,2.1326 1.19,0 2.15469,-0.9548 2.15469,-2.1326 0,-1.1778 -0.96469,-2.13259 -2.15469,-2.13259 z"
+       d="m 268.00042,-138 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-12 c 0,0 0,-1 -1,-1 z"
+       id="rect8476-3"
+       sodipodi:nodetypes="sccscscss"
+       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7554);enable-background:new"
+       transform="matrix(1.1681675,0,0,1.1423782,-45.898992,18.60858)" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 268.0002,-138 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-12 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 l -4,0 0,-4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"
        id="rect8476"
        sodipodi:nodetypes="sccscscssssscsssssss"
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:#808080;stroke-width:1.07180595;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke:none" />
   </g>
   <g
      inkscape:groupmode="layer"

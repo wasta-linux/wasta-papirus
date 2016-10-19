@@ -10,7 +10,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="drive-harddisk (copy).svg"
+   sodipodi:docname="drive-harddisk.svg"
    inkscape:export-filename="/home/sam/source-symbolic.png"
    inkscape:export-xdpi="270"
    inkscape:export-ydpi="270"
@@ -27,8 +27,8 @@
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer10"
-     inkscape:cx="-13.077622"
-     inkscape:cy="8.332842"
+     inkscape:cx="2.1511162"
+     inkscape:cy="5.4199421"
      gridtolerance="10"
      inkscape:guide-bbox="true"
      guidetolerance="10"
@@ -40,7 +40,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
-     showgrid="true"
+     showgrid="false"
      showguides="true"
      inkscape:showpageshadow="false"
      inkscape:snap-bbox="true"
@@ -62,7 +62,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:zoom="37.104741">
+     inkscape:zoom="26.237014">
     <inkscape:grid
        color="#000000"
        dotted="false"
@@ -127,12 +127,6 @@
      inkscape:label="devices"
      style="display:inline;filter:url(#filter7554)"
      transform="translate(-265.00042,139.03456)">
-    <path
-       inkscape:connector-curvature="0"
-       d="m 268.00042,-138 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-12 c 0,0 0,-1 -1,-1 z"
-       id="rect8476-3"
-       sodipodi:nodetypes="sccscscss"
-       style="display:inline;opacity:1;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter7554);enable-background:new" />
     <path
        inkscape:connector-curvature="0"
        d="m 268.0002,-138 c -1,0 -1,1 -1,1 l 0,12 c 0,0 0,1 1,1 l 10,0 c 0,0 1,0 1,-1 l 0,-12 c 0,0 0,-1 -1,-1 z m 5,2 c 2.20914,0 4,1.79086 4,4 0,2.20914 -1.79086,4 -4,4 l -4,0 0,-4 c 0,-2.20914 1.79086,-4 4,-4 z m 0,2 c -1.10457,0 -2,0.89543 -2,2 0,1.10457 0.89543,2 2,2 1.10457,0 2,-0.89543 2,-2 0,-1.10457 -0.89543,-2 -2,-2 z"

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   style="enable-background:new"
+   height="16"
+   width="16"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="edit-clear-test.svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     id="namedview7"
+     showgrid="true"
+     inkscape:zoom="14.75"
+     inkscape:cx="-30.033898"
+     inkscape:cy="8"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4153" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Paper Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title8473">Paper Symbolic Icon Theme</title>
+  <path
+     style="opacity:1;fill:#4d4d4d"
+     inkscape:connector-curvature="0"
+     d="M 5,2 0,8 5,14 16,14 16,2 Z"
+     id="rect6867"
+     sodipodi:nodetypes="cccccc" />
+  <path
+     style="opacity:1;fill:#e6e6e6;enable-background:new"
+     inkscape:connector-curvature="0"
+     d="M 5.71875,3 1.5,8.0000002 5.71875,13 15,13 15,3 Z M 7,5 8,5 C 8.2337188,5 8.6940488,5.5935171 8.8465565,5.7441417 L 9.9375251,6.8216418 11.028494,5.7441417 C 11.171931,5.5933084 11.76375,5 12,5 l 1,0 0,1 c 0,0.2308347 -0.631811,0.7718752 -0.784324,0.9225002 l -1.096875,1.0775 1.090969,1.0775 C 12.362277,9.2281252 13,9.7691669 13,10 l 0,1 -1,0 c -0.233719,0 -0.830836,-0.593495 -0.983344,-0.744117 L 9.9256875,9.1783835 8.8347188,10.255883 C 8.6997188,10.406717 8.23625,11 8,11 L 7,11 7,10 C 7,10 7.5034663,9.2281502 7.6559747,9.0775252 l 1.096875,-1.0775 -1.096875,-1.0775 C 7.5040997,6.7716918 7,6.2308333 7,6 Z"
+     id="rect6867-3"
+     sodipodi:nodetypes="cccccccssccscsccsscssccscsccccc" />
+</svg>
